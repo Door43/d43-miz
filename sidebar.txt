@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[miz:home|Door43 (miz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-miz|d43-miz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-miz/archive/master.zip|d43-miz.zip]]
+
+**Recent Changes**
+{{changes>ns = miz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/miz|Ethnologue data]]
+
